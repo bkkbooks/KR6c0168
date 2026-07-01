@@ -1,0 +1,162 @@
+canonical_identifier: bkk:krp/KR6c0168/v1
+canonical_location: https://kanripo.org/bkk/KR6c0168/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 般若心經正眼
+  identifiers:
+    alt_id:
+    - X26n0549
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X26/X26n0549.xml
+    old_id: X26n0549
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6c0168_000.yaml, hash: 'sha256:d326e7d715e0794c5e98717fccc5fa14303fc655b65583130229b0fed29d1158'}
+  - {seq: 1, filename: KR6c0168_001.yaml, hash: 'sha256:59135b789877cbc4194d587b8ad0bb8cc574eb241a23e2b80c9805f95df4bc59'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6c0168_001.markers.yaml, hash: 'sha256:d172d7d3282ae9ab69e97cff3a8a0b32c4b0e4269c61c3b0c2821b683ffac737'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6c0168_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 2130
+  label: 般若波羅蜜多心經正眼
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0168_X_001-mulu-1
+    span:
+    - body
+    - 16
+    - 16
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0168_X_001-mulu-2
+    span:
+    - body
+    - 80
+    - 80
+  label: 一釋名題
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0168_X_001-mulu-3
+    span:
+    - body
+    - 350
+    - 350
+  label: 二能修人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0168_X_001-mulu-4
+    span:
+    - body
+    - 427
+    - 427
+  label: 三明般若體
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0168_X_001-mulu-5
+    span:
+    - body
+    - 498
+    - 498
+  label: 四明般若用
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0168_X_001-mulu-6
+    span:
+    - body
+    - 709
+    - 709
+  label: 五正示三觀工夫
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0168_X_001-mulu-7
+    span:
+    - body
+    - 1009
+    - 1009
+  label: 六承諸法本不生滅
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0168_X_001-mulu-8
+    span:
+    - body
+    - 1162
+    - 1162
+  label: 七述空中本無諸法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0168_X_001-mulu-9
+    span:
+    - body
+    - 1446
+    - 1446
+  label: 八無得而得
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0168_X_001-mulu-10
+    span:
+    - body
+    - 1815
+    - 1815
+  label: 九讚深般若
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0168_X_001-mulu-11
+    span:
+    - body
+    - 1985
+    - 1985
+  label: 十密說般若
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0168_X_001-mulu-12
+    span:
+    - body
+    - 2081
+    - 2081
+  label: 䟦
+  type: mulu
+  level: 1
+hash: sha256:f00b107ac94ae19937fe9a5314cd3932c1a4aa35f5d403aa3bfe22c717c7e497
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
