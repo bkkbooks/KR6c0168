@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6c0168/v1
 canonical_location: https://kanripo.org/bkk/KR6c0168/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 般若心經正眼
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6c0168_000.yaml, hash: 'sha256:d326e7d715e0794c5e98717fccc5fa14303fc655b65583130229b0fed29d1158'}
-  - {seq: 1, filename: KR6c0168_001.yaml, hash: 'sha256:3f2bdaec34deebaf63fa90ab2d919946686f0bf6a7cbe646c8b53253572d2437'}
+  - {seq: 1, filename: KR6c0168_001.yaml, hash: 'sha256:e60dca664ca46aa48a6a9bc779f16709679c325b4bfaff58c3a7b6665a3c5dcf'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6c0168_000.markers.yaml, hash: 'sha256:05cb67d3e40ebf95556ecb4a3fcde37af8192571acf89840c93e6632acc1cf8f'}
-  - {seq: 1, role: markers, filename: assets/KR6c0168_001.markers.yaml, hash: 'sha256:d6c700cc40fcec6d2491b1499945892fe6dcc516a3fdf9322afe297a8ce3b94e'}
+  - {seq: 1, role: markers, filename: assets/KR6c0168_001.markers.yaml, hash: 'sha256:fca31a1f8905f2acb16beff488f873a57a65016c012f15772fbe84524cb7fe2d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -157,4 +157,7 @@ table_of_contents:
   label: 䟦
   type: mulu
   level: 1
-hash: sha256:1091945dadd81e2144be53e9aa9de325eaa43313cfbf1ec0a843ebfc0a7cda67
+hash: sha256:c89dc73d3a1cb8a3d411b58a368ae0594b218d746428113e6e1f71673d75bbbe
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
